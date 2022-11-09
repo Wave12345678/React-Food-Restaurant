@@ -8,7 +8,7 @@ const ChooseUs = () => {
         <section>
             <Container>
                 <Row>
-                    <Col lg='6'>
+                    <Col lg='6' md='6' >
                         <img src={pastaImg} alt="" className='w-100' />
                     </Col>
 
